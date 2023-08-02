@@ -25,3 +25,27 @@ I am ambitious and motivated to become a Front-end developer. I am currently act
 [CV-project](https://github.com/TarasBorchuk/practice/blob/CV-V2/README.md)
 
 ---
+
+## Work Experience
+
+There is no experience for now a days.
+
+---
+
+## Skills
+
+### Tech Skills
+
+- HTML5, CSS3 (Preprocessor SCSS, BEM methodology)
+- Git, GitHub
+- VS Code
+- Figma
+
+### Soft Skills
+
+- Teamwork
+- Communication
+- Organization
+- Attention to detail
+
+---
