@@ -1,6 +1,6 @@
-# _*Taras Borchuk*_
+# **Taras Borchuk**
 
-## **_Front-End Developer_**
+## ***Front-End Developer***
 
 ---
 
