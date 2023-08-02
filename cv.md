@@ -49,3 +49,19 @@ There is no experience for now a days.
 - Attention to detail
 
 ---
+
+## Languages
+
+1. Ukrainian - native level;
+1. English - B1 level;
+1. Russian - B1 level;
+
+---
+
+## Education
+
+- _Programming - self - education;_
+- _English - self - education;_
+
+
+ *\_All rights reserved 2023 &copy;\_*
