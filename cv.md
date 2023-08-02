@@ -6,11 +6,11 @@
 
 ## Contacts Info
 
-- Location: [Ivano-Frankivsk, Ukraine](https://goo.gl/maps/JaeMtNsopf8LJvAa6);
-- Phone: +3809\*\*\*\*\*396\;
-- E-mail: <tarasbukhalo@gmail.com>;
-- GitHub: [Taras Borchuk](https://github.com/TarasBorchuk/);
-- Telegram: [@The_Last_Pheonix](https://t.me/The_Last_Pheonix/);
+- ![Icon of position](./img/location16_16.png) Location: [Ivano-Frankivsk, Ukraine](https://goo.gl/maps/JaeMtNsopf8LJvAa6);
+- ![Icon of mobile phone](./img/telephone16_16.png) Phone: +3809\*\*\*\*\*396\;
+- ![Icon of gmail page](./img/gmail16x16.png) E-mail: <tarasbukhalo@gmail.com>;
+- ![Icon of GitHub page](./img/git16_16.png) GitHub: [Taras Borchuk](https://github.com/TarasBorchuk/);
+- ![Icon of Telegram app](./img/telegram16_16.png) Telegram: [@The_Last_Pheonix](https://t.me/The_Last_Pheonix/);
 
 ---
 
@@ -52,8 +52,8 @@ There is no experience for now a days.
 
 ## Languages
 
-1. Ukrainian - native level;
-1. English - B1 level;
+1. ![Ukraine flag](./img/ukraine24_24.png) Ukrainian - native level;
+1. ![United Kingdom flag](./img/united-kingdom24_24.png) English - B1 level;
 1. Russian - B1 level;
 
 ---
