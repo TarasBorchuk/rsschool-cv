@@ -13,7 +13,7 @@
 
 ## Profile
 
-I am a student of Rolling-scopes-school. That is my start of my future. 
+I am a student of Rolling-scopes-school. That is my start of my future. And i hope i will finish this course.
 
 ## Work Experience
 
