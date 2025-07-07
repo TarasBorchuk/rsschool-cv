@@ -21,7 +21,7 @@ I dont have any experience.
 
 ## Skills
 
-Zero.(point)zero
+Zero.(point)one
 
 ## Languages
 
